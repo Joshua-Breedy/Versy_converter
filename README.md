@@ -14,10 +14,10 @@ Packages needed to run Versy
 
 ## Supported OSes
 - Windows
-- MacOS [^*]
-- Linux [^*]
+- MacOS*
+- Linux*
 
-[^*] MacOS and Linux may require running file with root privileges as the program searches the file system for the file uploaded
+* MacOS and Linux may require running file with root privileges as the program searches the file system for the file uploaded
 
 
 ## How To Run
